@@ -10,3 +10,6 @@
 
 ## Oracle in Docker
 > [https://www.netnr.com/gist/code/5539940615817617246](https://www.netnr.com/gist/code/5539940615817617246)
+
+## docker-compose Mysql Redis MongoDb	RabbitMq	Nginx	Elasticsearch	Logstash	Kibana	Nacos	
+> [https://github.com/macrozheng/mall-swarm/blob/master/document/docker/docker-compose-env.yml](https://github.com/macrozheng/mall-swarm/blob/master/document/docker/docker-compose-env.yml)
